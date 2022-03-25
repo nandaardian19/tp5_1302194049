@@ -1,0 +1,3 @@
+C:\Users\nanda\source\repos\tp5_1302194049\tp5_1302194049\obj\Debug\tp5_1302194049.csproj.AssemblyReference.cache
+C:\Users\nanda\source\repos\tp5_1302194049\tp5_1302194049\obj\Debug\tp5_1302194049.csproj.SuggestedBindingRedirects.cache
+C:\Users\nanda\source\repos\tp5_1302194049\tp5_1302194049\obj\Debug\tp5_1302194049.csproj.CoreCompileInputs.cache
